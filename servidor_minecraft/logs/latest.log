@@ -606,3 +606,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 19:15:59.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.57.77.185:35605] logged in with entity id 1516 at (3505.603912103585, 81.0, 2972.9300270031686)
 [06Jul2025 19:15:59.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [06Jul2025 19:16:01.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[06Jul2025 19:29:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Hot Stuff]
