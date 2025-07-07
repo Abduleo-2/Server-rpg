@@ -603,3 +603,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 12:02:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [07Jul2025 12:18:17.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Essence Gathering]
 [07Jul2025 12:19:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has completed the challenge [Well, that was disgusting]
+[07Jul2025 12:47:28.974] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[07Jul2025 12:47:28.978] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[07Jul2025 12:47:28.979] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[07Jul2025 12:47:28.980] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[07Jul2025 12:47:30.236] [Worker-Main-83/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[07Jul2025 12:47:30.237] [Worker-Main-83/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
+[07Jul2025 12:47:30.239] [Worker-Main-83/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[07Jul2025 12:47:30.352] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
