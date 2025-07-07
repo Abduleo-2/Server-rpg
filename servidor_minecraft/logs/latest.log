@@ -601,3 +601,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 11:58:34.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
 [07Jul2025 12:02:55.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.91.75.251:42775] logged in with entity id 5416 at (3370.4411778916606, 116.0, 2845.935712378745)
 [07Jul2025 12:02:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[07Jul2025 12:18:17.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Essence Gathering]
+[07Jul2025 12:19:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has completed the challenge [Well, that was disgusting]
