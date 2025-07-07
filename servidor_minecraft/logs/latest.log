@@ -597,3 +597,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jul2025 11:42:55.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [07Jul2025 11:42:55.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.91.75.251:43869] logged in with entity id 1514 at (3443.508061298654, 89.0, 2959.0230878019447)
 [07Jul2025 11:42:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[07Jul2025 11:58:34.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
+[07Jul2025 11:58:34.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
+[07Jul2025 12:02:55.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.91.75.251:42775] logged in with entity id 5416 at (3370.4411778916606, 116.0, 2845.935712378745)
+[07Jul2025 12:02:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
