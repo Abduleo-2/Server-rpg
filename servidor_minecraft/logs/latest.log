@@ -610,3 +610,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 12:50:33.662] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18444, l='ServerLevel[world]', x=3830.50, y=72.00, z=2310.50]
 [08Jul2025 12:51:08.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18721, l='ServerLevel[world]', x=3818.50, y=80.00, z=2334.50]
 [08Jul2025 12:51:10.713] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18729, l='ServerLevel[world]', x=3851.50, y=76.00, z=2298.50]
+[08Jul2025 13:15:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Stroms
+[08Jul2025 13:15:49.565] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[08Jul2025 13:16:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 withered away
+[08Jul2025 13:16:52.443] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
