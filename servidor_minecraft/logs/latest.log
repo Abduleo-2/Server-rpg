@@ -602,3 +602,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 12:07:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
 [08Jul2025 12:08:07.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.103.205.208:50425] logged in with entity id 1569 at (3532.5, 88.0, 2979.5)
 [08Jul2025 12:08:07.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[08Jul2025 12:27:36.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [My Name is Nobody]
